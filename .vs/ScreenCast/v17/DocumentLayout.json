@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\sardor\\source\\repos\\ScreenCast\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7FDFD18-FB91-49B6-8354-0C67C1AD7F43}|ScreenCast\\ScreenCast.csproj|c:\\users\\sardor\\source\\repos\\screencast\\screencast\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E7FDFD18-FB91-49B6-8354-0C67C1AD7F43}|ScreenCast\\ScreenCast.csproj|solutionrelative:screencast\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{275E5217-A3DE-4728-A264-A86D4E49CCA4}|ScreenCast\\ScreenCast.csproj|c:\\users\\sardor\\source\\repos\\screencast\\screencast\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275E5217-A3DE-4728-A264-A86D4E49CCA4}|ScreenCast\\ScreenCast.csproj|solutionrelative:screencast\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275E5217-A3DE-4728-A264-A86D4E49CCA4}|ScreenCast\\ScreenCast.csproj|c:\\users\\sardor\\source\\repos\\screencast\\screencast\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{275E5217-A3DE-4728-A264-A86D4E49CCA4}|ScreenCast\\ScreenCast.csproj|solutionrelative:screencast\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275E5217-A3DE-4728-A264-A86D4E49CCA4}|ScreenCast\\ScreenCast.csproj|c:\\users\\sardor\\source\\repos\\screencast\\screencast\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275E5217-A3DE-4728-A264-A86D4E49CCA4}|ScreenCast\\ScreenCast.csproj|solutionrelative:screencast\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,13 +27,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\sardor\\source\\repos\\ScreenCast\\ScreenCast\\Form1.cs",
-              "RelativeDocumentMoniker": "ScreenCast\\Form1.cs",
-              "ToolTip": "C:\\Users\\sardor\\source\\repos\\ScreenCast\\ScreenCast\\Form1.cs [Design]",
-              "RelativeToolTip": "ScreenCast\\Form1.cs [Design]",
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\sardor\\source\\repos\\ScreenCast\\ScreenCast\\Main.cs",
+              "RelativeDocumentMoniker": "ScreenCast\\Main.cs",
+              "ToolTip": "C:\\Users\\sardor\\source\\repos\\ScreenCast\\ScreenCast\\Main.cs",
+              "RelativeToolTip": "ScreenCast\\Main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAABAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T16:20:04.359Z",
+              "WhenOpened": "2024-06-21T08:20:38.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\sardor\\source\\repos\\ScreenCast\\ScreenCast\\Main.Designer.cs",
+              "RelativeDocumentMoniker": "ScreenCast\\Main.Designer.cs",
+              "ToolTip": "C:\\Users\\sardor\\source\\repos\\ScreenCast\\ScreenCast\\Main.Designer.cs",
+              "RelativeToolTip": "ScreenCast\\Main.Designer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:20:32.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sardor\\source\\repos\\ScreenCast\\ScreenCast\\Main.cs",
+              "RelativeDocumentMoniker": "ScreenCast\\Main.cs",
+              "ToolTip": "C:\\Users\\sardor\\source\\repos\\ScreenCast\\ScreenCast\\Main.cs [Design]",
+              "RelativeToolTip": "ScreenCast\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:20:28.1Z",
               "EditorCaption": " [Design]"
             }
           ]
